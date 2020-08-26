@@ -1,18 +1,18 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to BallBlog",
-    "description": "Welcome to our new blog, BallBlog. We hope you enjoy \nreading what we have to say!",
+    "title": "Greetings! This is the BallBlog.",
+    "description": "Welcome to my new blog, BallBlog. I hope you enjoy \nreading my various words!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Robbie Ball",
+        "url": "https://twitter.com/ElephantNeurons"
       }
     ],
     "date": "2020-08-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-26T14:15:18-07:00",
-    "input_file": {}
+    "last_modified": "2020-08-26T16:18:03-07:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
