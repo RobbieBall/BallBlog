@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Greetings! This is the BallBlog.",
-    "description": "Welcome to my new blog, BallBlog. I hope you enjoy \nreading my various words!",
+    "title": "Post 2: Electric Boogalo",
+    "description": "BallBlog is happy to bring to you a long awaited 2nd post",
     "author": [
       {
         "name": "Robbie Ball",
@@ -12,7 +12,7 @@
     "date": "2020-08-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-26T16:18:03-07:00",
+    "last_modified": "2020-08-26T16:30:41-07:00",
     "input_file": "welcome.utf8.md"
   }
 ]

@@ -1,8 +1,7 @@
 ---
-title: "Greetings! This is the BallBlog."
+title: "Post 2: Electric Boogalo"
 description: |
-  Welcome to my new blog, BallBlog. I hope you enjoy 
-  reading my various words!
+  BallBlog is happy to bring to you a long awaited 2nd post
 author:
   - name: Robbie Ball 
     url: https://twitter.com/ElephantNeurons
@@ -22,5 +21,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-This is a successful first post (hopefully).
+Fans generally agreed while a sequel to post one was warranted, it largely derailed from the author's original intent and catered to fans wishes.
 
