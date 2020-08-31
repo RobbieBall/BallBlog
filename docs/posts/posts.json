@@ -1,18 +1,18 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Greetings! This is the BallBlog.",
-    "description": "Welcome to my new blog, BallBlog. I hope you enjoy \nreading my various words!",
+    "title": "Introduction: What even is Cognitive Psychology?",
+    "description": "Welcome to my new blog, BallBlog. \nToday I am discussing a short understanding\nof the field \"Cognitive Psychology\".",
     "author": [
       {
         "name": "Robbie Ball",
         "url": "https://twitter.com/ElephantNeurons"
       }
     ],
-    "date": "2020-08-26",
+    "date": "2020-08-31",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-31T14:34:11-07:00",
+    "last_modified": "2020-08-31T16:16:29-07:00",
     "input_file": "first.utf8.md"
   },
   {
