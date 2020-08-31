@@ -1,6 +1,22 @@
 [
   {
     "path": "posts/welcome/",
+    "title": "Greetings! This is the BallBlog.",
+    "description": "Welcome to my new blog, BallBlog. I hope you enjoy \nreading my various words!",
+    "author": [
+      {
+        "name": "Robbie Ball",
+        "url": "https://twitter.com/ElephantNeurons"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-31T14:31:40-07:00",
+    "input_file": "first.utf8.md"
+  },
+  {
+    "path": "posts/8_26_2020_02/",
     "title": "Post 2: Electric Boogalo",
     "description": "BallBlog is happy to bring to you a long awaited 2nd post",
     "author": [
@@ -12,7 +28,7 @@
     "date": "2020-08-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-26T16:30:41-07:00",
-    "input_file": "welcome.utf8.md"
+    "last_modified": "2020-08-31T14:31:15-07:00",
+    "input_file": "second.utf8.md"
   }
 ]
