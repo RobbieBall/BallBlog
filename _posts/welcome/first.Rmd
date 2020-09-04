@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 I think that it is important to keep in mind how new the field of 
 Cognitive Psychology, let alone Psychology, is relative to most other sciences.
-Considering how bizarre and primitive early methods of Psychology are (ex - 
+Considering how bizarre and primitive early methods of Psychology are (eg 
 measuring skulls to determine intelligence), I see Cognitive Psychology as a 
 huge step in the right direction toward accurately understanding cognition and 
 our minds. At it's core, Cognitive Psychology is the study of the
