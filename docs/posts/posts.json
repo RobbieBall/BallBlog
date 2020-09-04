@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/8_26_2020_02/",
+    "title": "Recontexualizing our Human Programming",
+    "description": "Module 1, Formation 1",
+    "author": [
+      {
+        "name": "Robbie Ball",
+        "url": "https://twitter.com/ElephantNeurons"
+      }
+    ],
+    "date": "2020-09-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-03T18:39:28-07:00",
+    "input_file": "second.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Introduction: What even is Cognitive Psychology?",
     "description": "Welcome to my new blog, BallBlog. \nToday I am discussing a short understanding\nof the field \"Cognitive Psychology\".",
@@ -12,23 +28,7 @@
     "date": "2020-08-31",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-31T16:16:29-07:00",
+    "last_modified": "2020-09-03T18:23:31-07:00",
     "input_file": "first.utf8.md"
-  },
-  {
-    "path": "posts/8_26_2020_02/",
-    "title": "Post 2: Electric Boogalo",
-    "description": "BallBlog is happy to bring to you a long awaited 2nd post",
-    "author": [
-      {
-        "name": "Robbie Ball",
-        "url": "https://twitter.com/ElephantNeurons"
-      }
-    ],
-    "date": "2020-08-26",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-08-31T14:31:15-07:00",
-    "input_file": "second.utf8.md"
   }
 ]
