@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/09_11_2020_03/",
+    "title": "Learning to Learn and Beyond",
+    "description": "Module 1, Foundations 2",
+    "author": [
+      {
+        "name": "Robbie Ball",
+        "url": "https://twitter.com/ElephantNeurons"
+      }
+    ],
+    "date": "2020-09-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-09T09:48:13-07:00",
+    "input_file": "third.utf8.md"
+  },
+  {
     "path": "posts/09_03_2020_02/",
     "title": "Recontexualizing our Human Programming",
     "description": "Module 1, Foundations 1",
