@@ -1,0 +1,56 @@
+---
+title: "The Likely Friendship of Animal Cognition and Artificial Intelligence"
+description: "Midterm: Proposal and Bibliography"
+ 
+author:
+  - name: Robbie Ball 
+    url: https://twitter.com/ElephantNeurons
+    affiliation: CUNY Graduate Center
+    affiliation_url: https://www.gc.cuny.edu/
+date: 10-23-2020
+bibliography: Midterm Bibli.bib
+csl: apa.csl
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+The core of Cognitive Psychology and Cognitive Science is to use any scientifically valid method of breaking down methods of enigmatic ‘mind,’ which encompasses a system spanning from brain to body to ecosystem. These methods may be the function of learning, memory, and attention, problem solving, involuntary responses, as well as social functions like cooperation, competition, and communication. Of course, the list goes on. 
+	
+My focus in research is on Comparative Animal Cognition, through the lens of evolution. Understanding that the development of both observable and non-observable phenomena in living beings is a ship steered by natural iterations of trial and error provides the most comprehensive account for how four billion years turned single cell aquatic organisms into “near-cybernetic apes” able to communicate with any other cybernetic ape on the planet.
+	
+Comparing with other animals, the evolutionary development of sensory systems provides evidence of divergent growth in intelligence. Primates use stereo vision and have highly dexterous limbs, canines have excellent olfactory tracking, dolphins use sonar for tactile communication within their environment, elephants use a combination of subsonic sounds, olfactory tracking, and trunk dexterity, etc. However, as fun as it is to discuss this field, there seems to be a gap between the field of comparative cognition in animals and the field of artificial intelligence. Computers are not animals, right? I think that line will become blurry in our lifetimes.
+
+The paper I propose to write will bridge the line between our studies of animal and computer – specifically, that both are non-human models of cognition. There is no doubt that human cognition is important to scientific understandings, but developments in artificial intelligence are clearly not aimed at only replicating human models. Algorithms sort amounts of information humans could never comprehend. We are creating artificial intelligences that serve purposes we architect, and they evolve in a means of iteration through trial and error. Based on plausible speculation, AI may even be able to iterate itself into evolution without human programming. Clearly, there is a parallel between the development of the organic and artificial mind. 
+	
+When we discussed early theories of memory in this course, I kept hanging on to the fact that Richard Semon, who clearly holds immense relevance in memory theory today, was a zoologist by training. He appropriated a non-human biased model into his methodology and found a more concrete model consequently. This model, as well as others on memory theory, are crucial in what is now the ever-expanding world of machine learning and AI. The central idea I want to discuss for this paper is how we need to shape our perspective on animal cognition and artificial intelligence as a holistic goal toward modeling universal cognition in all possible forms. I believe more focus needs to be put on how nature informs technology and vice versa. For example, sorting models rely on mathematical optimization[@hosken_evaluation_1955], but rarely consider the pecking order animals utilize innately in their social domains.
+	
+A significant challenge to accomplishing this in my paper is that my academic knowledge of AI is not equivalent to my knowledge of animal cognition. However, I believe I can create an in-depth enough review of the parallels between animal cognition and artificial intelligence literature. I want to highlight several specific topics that can be bridged from one field to the other, to justify why the two fields should be viewed under a greater umbrella. 
+	
+Because the final paper is expected to be about 10-15 pages, I have six fields in mind to cover. I think it is possible I may merge or change them slightly at some point. Several of them stem from the modules across this course. They are: 
+
+<ul>
+<li>Memory theory - comparing work like Semon and other early works to animal behavior models (likely an intro topic)</li>
+<li>Association - bridging advances in associative learning through cognitive richness with the largely associative learning models in AI</li>
+<li>Communication - something along the lines of potentially the Linguistics module, or at least just about how computers talk to each other mirrors how communication models are studied in animals</li>
+<li>Sensory systems - I think this might relate to the concepts and/or decision making modules, but if not I can talk about how machine learn from sources of information based on the nature of the data, mirroring how animals learn dependent on the strength of sensory data their bodies provide</li>
+<li>Embodied Cognition - as well as related Distributed cognition relates to the body and brain relationship and nearby interactions, I would like to use this as an opportunity to discuss how system level cognition works from brain to body to ecology (and definitely mentioning the slime mold study about public infrastructure)</li>
+<li>Sorting – this could also be related to the decision making  and/or concept module, but it doesn’t have to be necessarily, I have been reading about sorting algorithms (bubble sort, mergesort ,etc) and their relationship with naturally found pecking orders in chickens and primates</li>
+
+Allocating around two-three pages per subject should easily make for an overall brief but comprehensive enough final paper. 20 references minimum should not be an issue; that would mean about 4-5 sources per topic.
+
+
+
+nocite: @laidre_animal_2013, @miller_magical_1956, @newell_you_1973, @schacter_richard_1978, @hintzman__1986, @rescorla_pavlovian_1988, @pearce_theories_2001, @delamater_at_2011, @masure_social_1934, @todd_coevolved_2007, @lawler_scheduling_1983, @hosken_evaluation_1955, @hutchins_how_1995, @hutchins_distributed_1996, @krugman_slime_1998, @dorigo_ant_2006, @kiltie_scaling_2000, @au_detection_1988, @lin_computer_1965.
+
+
+
+

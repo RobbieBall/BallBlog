@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/10_23_2020_04/",
+    "title": "The Likely Friendship of Animal Cognition and Artificial Intelligence",
+    "description": "Midterm: Proposal and Bibliography",
+    "author": [
+      {
+        "name": "Robbie Ball",
+        "url": "https://twitter.com/ElephantNeurons"
+      }
+    ],
+    "date": "2020-10-23",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-21T11:53:12-07:00",
+    "input_file": "fourth.utf8.md"
+  },
+  {
     "path": "posts/09_11_2020_03/",
     "title": "Learning to Learn and Beyond",
     "description": "Module 1, Foundations 2",
