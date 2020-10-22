@@ -13,6 +13,7 @@ csl: apa.csl
 output:
   distill::distill_article:
     self_contained: false
+    
 ---
 
 ```{r setup, include=FALSE}
@@ -48,9 +49,5 @@ Because the final paper is expected to be about 10-15 pages, I have six fields i
 Allocating around two-three pages per subject should easily make for an overall brief but comprehensive enough final paper. 20 references minimum should not be an issue; that would mean about 4-5 sources per topic.
 
 
-
-nocite: @laidre_animal_2013, @miller_magical_1956, @newell_you_1973, @schacter_richard_1978, @hintzman__1986, @rescorla_pavlovian_1988, @pearce_theories_2001, @delamater_at_2011, @masure_social_1934, @todd_coevolved_2007, @lawler_scheduling_1983, @hosken_evaluation_1955, @hutchins_how_1995, @hutchins_distributed_1996, @krugman_slime_1998, @dorigo_ant_2006, @kiltie_scaling_2000, @au_detection_1988, @lin_computer_1965.
-
-
-
-
+# Citations for Bibliography below
+ @laidre_animal_2013, @miller_magical_1956, @newell_you_1973, @schacter_richard_1978, @hintzman__1986, @rescorla_pavlovian_1988, @pearce_theories_2001, @delamater_at_2011, @masure_social_1934, @todd_coevolved_2007, @lawler_scheduling_1983, @hosken_evaluation_1955, @hutchins_how_1995, @hutchins_distributed_1996, @krugman_slime_1998, @dorigo_ant_2006, @kiltie_scaling_2000, @au_detection_1988, @lin_computer_1965.
